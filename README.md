@@ -1,15 +1,9 @@
-# R.O.N.....
-R.O.N  IS. (Robotics Opration Network) I.e a tool that run automatic commands at certain timing . if error occur then Ron has capable  to fix it with Internate db. 
-# ⚡️ **R.O.N v9.0** - Perplexity DB + Mission Tracking 🤖
+# R.O.N.... v2.1 - Anonymous Pentest Assistant
 
-## 🔥 **NEW FEATURES**
-- 🧠 **Perplexity DB** (`ron.sh db`) - w3m scraping
-- 🎯 **Mission Tracking** - ✅ COMPLETE / ❌ INCOMPLETE
-- 📊 **Live Dashboard** - Real-time status
+📁 **Location:** `/root/R.O.N/`
 
-## 🚀 DEPLOY
+## 🚀 Setup
 ```bash
-git clone https://github.com/blackduck780/RON.git
-cd RON && chmod +x ron.sh
-sudo ./ron.sh install
-./ron.sh dashboard
+cd /root && git clone https://github.com/blackduck780/R.O.N...../
+cd R.O.N && pip install -r requirements.txt
+chmod +x ron.py && python3 ron.py
