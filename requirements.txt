@@ -1,1 +1,12 @@
-w3m curl cron nmap nano timeout tar sqlite3 openssl dnsutils jq
+# PYTHON LIBRARIES (pip install)
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.4
+watchdog==4.0.0
+schedule==1.2.0
+PySocks==1.7.1          # Python SOCKS proxy support
+stem==1.8.2             # Tor control (NEW!)
+
+# SYSTEM TOOLS (auto-installed by R.O.N)
+# tor          ← apt install tor
+# proxychains  ← apt install proxychains
