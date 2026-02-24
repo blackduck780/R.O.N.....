@@ -1,0 +1,9 @@
+{
+  "auto_close": false,
+  "api_keys": {
+    "openai": "sk-your-openai-key-here",
+    "google": "your-google-api-key",
+    "github": "your-github-token"
+  },
+  "plugins": ["tor", "beef", "hulk"]
+}
