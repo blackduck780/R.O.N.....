@@ -1,0 +1,21 @@
+# R.O.N Runtime (SECURITY!)
+ron.db
+ron.log
+config.json
+ron.pid
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+env/
+venv/
+
+# OS/Editor
+.DS_Store
+.vscode/
+.idea/
+
+# Sensitive
+.env
+*.key
